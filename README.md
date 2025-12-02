@@ -105,7 +105,7 @@ Para devs: entenda impacto de NAT em APIs, VPN e logs. Sempre confirme faixa de 
 
 ------------------------------------------------------------------------------------------------
 
-#### 
+
 
 #### 🧭 Aula 04 – Serviços e Aplicações na Internet
 
@@ -275,7 +275,6 @@ Para devs: implemente HSTS, sanitize inputs, use HTTPS obrigatório, verifique e
 
 ------------------------------------------------------------------------------------------------
 
-#### 
 
 #### 🚀 Aula 10 – Tendências Modernas
 
@@ -555,7 +554,7 @@ Deletando branches.
 
 ------------------------------------------------------------------------------------------------
 
-#### 
+
 
 #### 🔁 Aula 04 – Pull Request
 
