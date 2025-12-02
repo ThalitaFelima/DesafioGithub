@@ -1,11 +1,13 @@
 <p align="right">
-  <img src="https://github.com/ThalitaFelima/DesafioGithub/blob/main/Imagem%201%20-%20Readme.jpg" alt="foto de perfil" width="200">
+  <img src="https://github.com/ThalitaFelima/DesafioGithub/blob/main/Imagem%201%20-%20Readme.jpg" alt="foto de perfil" width="200" style="border-radius: 12px;">
 </p>
 
-#### Thalita Ferreira Lima de Paula
-Aspirante a Dev Alpha Edtech
+<h2 align="center">Thalita Ferreira Lima de Paula</h2>
+<p align="center">
+  <i>Aspirante a Dev • Alpha EdTech</i>
+</p>
 
-&nbsp;-----------------------------------------------------------------------------------------------
+
 
 
 ![texto alternativo](https://t2.tudocdn.net/558755?w=824&h=494)
