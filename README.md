@@ -1,3 +1,5 @@
+![texto alternativo](https://t2.tudocdn.net/558755?w=824&h=494)
+
 # **Trila I- Introdução à Redes e à Internet**
 
 # **Professor Kenji Taniguchi**
@@ -318,7 +320,7 @@ Para devs: compreenda impacto de VPN, IAM, políticas de rede na nuvem, automaç
 ------------------------------------------------------------------------------------------------
 
 
-
+![texto alternativo](https://hermes.dio.me/articles/cover/d2489f96-d56f-4b82-bc7f-84fbc9fb1368.jpg)
 
 
 
