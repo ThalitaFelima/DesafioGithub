@@ -1,9 +1,12 @@
-<p align="left">
+<p align="right">
   <img src="https://github.com/ThalitaFelima/DesafioGithub/blob/main/Imagem%201%20-%20Readme.jpg" alt="foto de perfil" width="200">
 </p>
 
 #### Thalita Ferreira Lima de Paula
 Aspirante a Dev Alpha Edtech
+
+&nbsp;-----------------------------------------------------------------------------------------------
+
 
 ![texto alternativo](https://t2.tudocdn.net/558755?w=824&h=494)
 
