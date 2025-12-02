@@ -1,6 +1,3 @@
-<p align="right">
-  <img src="https://github.com/ThalitaFelima/DesafioGithub/blob/main/Imagem%201%20-%20Readme.jpg" alt="foto de perfil" width="200">
-</p>
 
 <h3 align="center">Thalita Ferreira Lima de Paula</h3>
 <p align="center">Aspirante a Dev – Alpha EdTech</p>
