@@ -1,3 +1,6 @@
+#### Thalita Ferreira Lima de Paula
+Aspirante a Dev Alpha Edtech
+
 ![texto alternativo](https://t2.tudocdn.net/558755?w=824&h=494)
 
 # **Trila I- Introdução à Redes e à Internet**
